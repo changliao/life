@@ -1,9 +1,9 @@
-title: Earth Science
+title: Life Journal
 author:
   name: Chang Liao
   email: earth@changliao.us
 description: > # this means to ignore newlines until "show_excerpts:"
-  Behind-the-scenes of Earth Science modeling.
+  Live in the moment
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
