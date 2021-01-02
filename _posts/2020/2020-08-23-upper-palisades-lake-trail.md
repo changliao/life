@@ -11,4 +11,5 @@ blogger_orig_url: https://life.changliao.us/2020/08/upper-palisades-lake-trail.h
 ---
 We almost got to the lake, but one of our members had to stop. It was a great experience though. My wife believed she heard some bear noise.
 
-![Figure 1](https://github.com/changliao/life/blob/main/_figure/upper_palisades_lake_trail.jpg?raw=true)
+![Figure 1](https://github.com/changliao/life/blob/main/_figure/2020/upper_palisades_lake_trail.jpg?raw=true)
+
