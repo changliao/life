@@ -10,7 +10,4 @@ blogger_id: tag:blogger.com,1999:blog-3538903673553692702.post-75808605803671306
 blogger_orig_url: https://life.changliao.us/2020/06/before-sunset.html
 ---
 
-<div>[<img 
-src="http://4.bp.blogspot.com/-nfsyqbh-cJ4/Xu5CM9eoPlI/AAAAAAAA-Ps/Fl2D2qBlhA0SkXV-ILM42Q6QhyE9YVCBACK4BGAYYCw/s320/IMG-1029-EFFECTS-718906.jpg" 
- border="0" alt="" id="BLOGGER_PHOTO_ID_6840477674451254866" 
-/>](http://4.bp.blogspot.com/-nfsyqbh-cJ4/Xu5CM9eoPlI/AAAAAAAA-Ps/Fl2D2qBlhA0SkXV-ILM42Q6QhyE9YVCBACK4BGAYYCw/s1600/IMG-1029-EFFECTS-718906.jpg) 
+![Figure 1](https://github.com/changliao/life/blob/main/_figure/2020/richland_sunset.jpg?raw=true)
