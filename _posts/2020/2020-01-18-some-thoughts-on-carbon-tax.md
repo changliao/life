@@ -2,6 +2,7 @@
 layout: post
 title: Some thoughts on carbon tax
 date: '2020-01-18T13:07:00.001-08:00'
+permalink: /posts/2020/01/18/some-thoughts-on-carbon-tax/
 author: Chang Liao
 tags:
 - Carbon emission
