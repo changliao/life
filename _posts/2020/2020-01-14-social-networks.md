@@ -6,7 +6,6 @@ author: Chang Liao
 tags:
 modified_time: '2020-01-14T21:37:57.938-08:00'
 blogger_id: tag:blogger.com,1999:blog-3538903673553692702.post-4092669971080083675
-blogger_orig_url: https://life.changliao.us/2020/01/social-networks.html
 ---
 
 After almost one year, I still feel the pain of Google+ shutdown.

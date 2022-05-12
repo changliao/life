@@ -6,7 +6,6 @@ author: Chang Liao
 tags:
 modified_time: '2020-02-22T20:09:58.624-08:00'
 blogger_id: tag:blogger.com,1999:blog-3538903673553692702.post-7419338184921619204
-blogger_orig_url: https://life.changliao.us/2020/02/thoughts-on-some-news-from-china.html
 ---
 
 科技部印发《关于破除科技评价中“唯论文”不良导向的若干措施（试行）》的通知

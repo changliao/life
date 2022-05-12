@@ -6,7 +6,6 @@ author: Chang Liao
 tags:
 modified_time: '2020-05-26T20:29:01.180-07:00'
 blogger_id: tag:blogger.com,1999:blog-3538903673553692702.post-7181895765131957817
-blogger_orig_url: https://life.changliao.us/2020/05/the-lost-web.html
 ---
 
 The web as I know has changed so much that I started to miss the old Web 2.0.

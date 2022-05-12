@@ -6,7 +6,6 @@ author: Chang Liao
 tags:
 modified_time: '2020-03-02T11:33:48.744-08:00'
 blogger_id: tag:blogger.com,1999:blog-3538903673553692702.post-5792903397426252672
-blogger_orig_url: https://life.changliao.us/2020/03/draw-io-changes-to-net.html
 ---
 
 "However, the domain administrator made no attempt, at any time, to  

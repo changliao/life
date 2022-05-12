@@ -6,7 +6,6 @@ author: Chang Liao
 tags:
 modified_time: '2020-01-19T14:26:41.795-08:00'
 blogger_id: tag:blogger.com,1999:blog-3538903673553692702.post-8248509182316331594
-blogger_orig_url: https://life.changliao.us/2020/01/favourite-spot.html
 ---
 
 Many years ago, I wanted to launch a website called "考研118". Why? Because I spent quite a long time (longer than any course I took in undergraduate) in the classroom 118 to prepare my graduate school exam.

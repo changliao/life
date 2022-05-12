@@ -6,7 +6,6 @@ author: Chang Liao
 tags:
 modified_time: '2020-05-23T23:10:54.529-07:00'
 blogger_id: tag:blogger.com,1999:blog-3538903673553692702.post-5896031503874013906
-blogger_orig_url: https://life.changliao.us/2020/05/dont-be-and-avoid-third-guy.html
 ---
 I once read a funny story but worth some reflection on our real life.
 
